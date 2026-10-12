@@ -12,6 +12,18 @@ python.exe -m pip install --upgrade pip
 
 python -m pip install -r requirements.txt  
 
+For codespaces use:
+
+# azure login
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+az login --use-device-code
+
+# install Azure CLI
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+az login --use-device-code
+
+# run the python file to see all working okay (bash).
+python python/run_model.py
 
 
 Press ``Ctrl-` `` &nbsp; to open a ter
