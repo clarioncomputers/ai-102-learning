@@ -40,3 +40,4 @@ print(response3.output_text)
 #print(f"Response ID: {response3.id}")
 #print(f"Status: {response3.status}")
 #print(f"answer: {response3.output[0]}")
+

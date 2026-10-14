@@ -2,3 +2,4 @@ ansible-core==2.19.7
 azure-identity==1.26.0
 openai==3.0.0
 azure-ai-projects==2.8.0
+aiohttp
