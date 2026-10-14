@@ -21,7 +21,7 @@ Press ``Ctrl-` `` &nbsp; to open a ter
 To run the model that you deployed in AI Foundry, and view the output in the terminal run the following command:
 
 ```bash
-python run_model.py
+python -m python.chat_chatcompletions.run_model
 ```
 
 
